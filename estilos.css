@@ -1,0 +1,45 @@
+header{
+    text-align: center;
+}
+img{
+    border-radius: 50%;
+    border: 8px solid gold;
+    width: 200px;
+    height: 260px;
+}
+.titulo{
+    font-size: 38px;
+    color: gold;
+}
+.subtitulo{
+    font-size: 28px;
+    color: white;
+}
+.contato{
+    font-size: 18px;
+    font-family: Arial;
+    font-weight: bold;
+    line-height: 150%;
+}
+body{
+    background-color: green;
+}
+h3{
+    font-size: 18px;
+    font-family: Arial;
+    font-weight: bold;
+    line-height: 150%;
+    color: gold;
+}
+li{
+    font-size: 16px;
+    font-family: Arial;
+    line-height: 150%;
+    color: white;
+}
+p{
+    font-size: 16px;
+    font-family: Arial;
+    line-height: 150%;
+    color: white;
+}
